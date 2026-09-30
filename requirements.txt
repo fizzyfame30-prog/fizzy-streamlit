@@ -1,1 +1,5 @@
-streamlit==1.36.0\npandas==2.1.0\nnumpy==1.24.3\nyfinance==0.2.32\npython-dotenv==1.0.0\n
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+yfinance==0.2.36
+python-dotenv==1.0.1
